@@ -172,3 +172,35 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
+
+.resume-container{
+  display: flex;
+  gap: 50px;
+
+
+}
+.resume-item-title{
+
+  color: #474747;
+  font-family: Open Sans;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 10px;
+
+
+  
+}
+
+.resume-item-institute{
+
+  margin-top: opx;
+  margin-top: 10px;
+}
+
+.resume-item-description,.resume-item-institute{
+
+
+  color: #757575;
+}
