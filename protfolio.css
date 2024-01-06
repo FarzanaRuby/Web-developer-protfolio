@@ -1,19 +1,20 @@
 /* common shared styles */
 
-font-family: 'Lato', sens-serif;
+/* font-family: 'Lato', sens-serif;
 
-font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans', sans-serif; */
 
 
 /*nav related styles        */
 
 
 
-nav{
+.nav-container{
 
     display: flex;
     align-items: center;
     justify-content: space-between;
+   
  } 
  .nav-title{
 
@@ -59,3 +60,17 @@ nav{
     color: #474747;
   }
  
+  .header{
+
+    background-color: #fff8f3;
+  }
+  .banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+  }
+   .banner .profile-picture{
+    width: 500px;
+
+
+   }
