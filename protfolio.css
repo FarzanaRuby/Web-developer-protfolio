@@ -204,3 +204,21 @@ line-height: normal;
 
   color: #757575;
 }
+/* footer */
+footer{
+  display:flex ;
+  background-color: #FFF8F3;
+  padding: 130px 200px;
+  margin-top: 10px;
+  gap: 100px;
+}
+.footer-column{
+  width: 50%;
+} .contact input,textarea{
+  display: block;
+  margin-bottom: 24px;
+  padding: 18px 35px;
+  color: #757575;
+  border-radius: 5px;
+
+}
